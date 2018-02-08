@@ -1,0 +1,6 @@
+[package]
+name = "lists"
+version = "0.1.0"
+authors = ["Ziyuan Liu <ziyuan.liu@gmail.com>"]
+
+[dependencies]
